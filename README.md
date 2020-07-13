@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Current Time](https://objective-lovelace-d6b2b4.netlify.app/analog_clock.svg)
+
 <!--
 **clarnx/clarnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
