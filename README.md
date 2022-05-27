@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=clarnx&title_color=1fff0f&text_color=fff&icon_color=1fff0f&bg_color=000&hide_title=true&show_icons=true" />
 
-- 🍭 Find fun on my site [**Linktree**](https://linktr.ee/devdigest) [**YouTube**](https://www.youtube.com/channel/UCrJuJ4Z9J-FuzYf4TyMOg7w) [**Udemy**](https://www.udemy.com/user/devdigest/)
+- 🍭 Find me at [**Linktree**](https://linktr.ee/devdigest) | [**YouTube**](https://www.youtube.com/channel/UCrJuJ4Z9J-FuzYf4TyMOg7w) | [**Udemy**](https://www.udemy.com/user/devdigest/)
 
 A Linux / I.T Admin, designer, a 2D animator, a full stack developer. with JavaScript, Node.js ♾ and Next.js ♻️ skills.
 
