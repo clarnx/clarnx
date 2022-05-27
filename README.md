@@ -14,6 +14,7 @@ Repos:
 
 - 💽 [transpilyzer-online-repl](https://github.com/clarnx/transpilyzer-online-repl) An online REPL based on Babel for transpiling next generation JavaScript in real-time
 - 🔋 [hubtel-sms-nodejs-v1](https://github.com/clarnx/hubtel-sms-nodejs-v1) An open source Node.js SDK that allows you to access the Hubtel Programmable SMS API from your Node.js application.
+- ⚡[more...](https://github.com/clarnx?tab=repositories)
 
 Cool Websites Developed:
 
