@@ -1,6 +1,6 @@
 ### Hi there, I'm Clarence 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=clarnx&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=clarnx&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&theme=dark&show_icons=true" />
 
 - 🍭 Find fun on my site [**Linktree**](https://linktr.ee/devdigest) [**YouTube**](https://www.youtube.com/channel/UCrJuJ4Z9J-FuzYf4TyMOg7w) [**Udemy**](https://www.udemy.com/user/devdigest/)
 
@@ -20,6 +20,6 @@ Cool Websites Developed:
 - [358bull Community](https://358bullcommunity.netlify.app/) An NTF project website.
 - [Alethea Studios](https://www.aletheastudios.com/) A digital marketing website.
 - [Crik Studios](https://crikstudios.com/) A media studio website.
-- [Crik Studios](https://www.freshinternationalmarine.com/) A logistics company website.
+- [Fresh International Marine](https://www.freshinternationalmarine.com/) A logistics company website.
 - [Soundcloud Artists Followers Chart](https://chart.orientanalytics.com/) A dashboard utility that displays a realtime chart of SoundCloud Artists Followers.
 - [Smart Touch Typing](https://www.smarttouchtyping.com/) A touch typing resource website for beginners.
