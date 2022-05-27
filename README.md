@@ -4,9 +4,9 @@
 
 - 🍭 Find me at [**Linktree**](https://linktr.ee/devdigest) | [**YouTube**](https://www.youtube.com/channel/UCrJuJ4Z9J-FuzYf4TyMOg7w) | [**Udemy**](https://www.udemy.com/user/devdigest/)
 
-A Linux / I.T Admin, designer, a 2D animator, a full stack developer. with JavaScript, Node.js ♾ and Next.js ♻️ skills.
+A Linux / I.T Admin, designer, a 2D animator, and a full stack developer with JavaScript, Node.js ♾ and Next.js ♻️ skills.
 
-I love to create minimalistic web apps ❤️.
+I love to create minimalistic websites / web apps ❤️.
 
 ---
 
