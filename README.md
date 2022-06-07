@@ -18,7 +18,7 @@ Repos:
 
 Cool Websites Developed:
 
-- [358bull Community](https://358bullcommunity.netlify.app/) An NTF project website.
+- [358bull Community](https://358bull.community/) An NTF project website.
 - [Alethea Studios](https://www.aletheastudios.com/) A digital marketing website.
 - [Crik Studios](https://crikstudios.com/) A media studio website.
 - [Fresh International Marine](https://www.freshinternationalmarine.com/) A logistics company website.
