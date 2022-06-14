@@ -21,6 +21,7 @@ Cool Websites Developed:
 - [358bull Community](https://358bull.community/) An NTF project website.
 - [Alethea Studios](https://www.aletheastudios.com/) A digital marketing website.
 - [Crik Studios](https://crikstudios.com/) A media studio website.
-- [Fresh International Marine](https://www.freshinternationalmarine.com/) A logistics company website.
 - [Soundcloud Artists Followers Chart](https://chart.orientanalytics.com/) A dashboard utility that displays a realtime chart of SoundCloud Artists Followers.
+- [Orient Analytics](https://orientanalytics.com/) A data analytics company website
+- [Fresh International Marine](https://www.freshinternationalmarine.com/) A logistics company website.
 - [Smart Touch Typing](https://www.smarttouchtyping.com/) A touch typing resource website for beginners.
