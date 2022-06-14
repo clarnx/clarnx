@@ -22,6 +22,6 @@ Cool Websites Developed:
 - [Alethea Studios](https://www.aletheastudios.com/) A digital marketing website.
 - [Crik Studios](https://crikstudios.com/) A media studio website.
 - [Soundcloud Artists Followers Chart](https://chart.orientanalytics.com/) A dashboard utility that displays a realtime chart of SoundCloud Artists Followers.
-- [Orient Analytics](https://orientanalytics.com/) A digital analytics website.
+- [Orient Analytics](https://orientanalytics.com/) A digital analytics website and marketplace.
 - [Fresh International Marine](https://www.freshinternationalmarine.com/) A logistics company website.
 - [Smart Touch Typing](https://www.smarttouchtyping.com/) A touch typing resource website for beginners.
