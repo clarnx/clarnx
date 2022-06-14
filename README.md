@@ -12,7 +12,7 @@ I love to create minimalistic websites / web apps ❤️.
 
 Repos:
 
-- 💽 [transpilyzer-online-repl](https://github.com/clarnx/transpilyzer-online-repl) An online REPL based on Babel for transpiling next generation JavaScript in real-time
+- 💽 [transpilyzer-online-repl](https://github.com/devDigestOfficial/transpilyzer-online-repl) An online REPL based on Babel for transpiling next generation JavaScript in real-time
 - 🔋 [hubtel-sms-nodejs-v1](https://github.com/clarnx/hubtel-sms-nodejs-v1) An open source Node.js SDK that allows you to access the Hubtel Programmable SMS API from your Node.js application.
 - ⚡[more...](https://github.com/clarnx?tab=repositories)
 
@@ -21,7 +21,6 @@ Cool Websites Developed:
 - [358bull Community](https://358bull.community/) An NTF project website.
 - [Alethea Studios](https://www.aletheastudios.com/) A digital marketing website.
 - [Crik Studios](https://crikstudios.com/) A media studio website.
-- [Soundcloud Artists Followers Chart](https://chart.orientanalytics.com/) A dashboard utility that displays a realtime chart of SoundCloud Artists Followers.
-- [Orient Analytics](https://orientanalytics.com/) A data analytics company website
 - [Fresh International Marine](https://www.freshinternationalmarine.com/) A logistics company website.
+- [Soundcloud Artists Followers Chart](https://chart.orientanalytics.com/) A dashboard utility that displays a realtime chart of SoundCloud Artists Followers.
 - [Smart Touch Typing](https://www.smarttouchtyping.com/) A touch typing resource website for beginners.
