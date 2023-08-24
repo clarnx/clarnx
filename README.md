@@ -17,7 +17,7 @@ Repos:
 - ⚡[more...](https://github.com/clarnx?tab=repositories)
 
 Cool Websites Developed:
-- [Bootstrap by Example](https://bootstrapbyexample.com/) Personal blog about Bootstrap.
+- [Bootstrap by Example](https://bootstrapbyexample.com/) Personal blog on how to learn Bootstrap.
 - [Alethea Studios](https://www.aletheastudios.com/) A digital marketing website.
 - [Soundcloud Artists Followers Chart](https://chart.orientanalytics.com/) A dashboard utility that displays a realtime chart of SoundCloud Artists Followers.
 - [Orient Analytics](https://marketplace.orientanalytics.com/) A digital analytics website and marketplace.
