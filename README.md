@@ -17,6 +17,7 @@ Repos:
 - ⚡[more...](https://github.com/clarnx?tab=repositories)
 
 Cool Websites Developed:
+- [Taskify](https://taskify-site.netlify.app/) A minimalistic todo application using inspiration from the iOS and MacOS task application.
 - [Bootstrap by Example](https://bootstrapbyexample.com/) Personal blog on how to learn Bootstrap.
 - [Bootstrap Playground](https://bootstrapbyexample.com/playground/) An online code editor that lets you play with Bootstrap code in any modern browser.
 - [Soundcloud Artists Followers Chart](https://chart.orientanalytics.com/) A dashboard utility that displays a realtime chart of SoundCloud Artists Followers.
