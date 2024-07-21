@@ -17,10 +17,10 @@ Repos:
 - ⚡[more...](https://github.com/clarnx?tab=repositories)
 
 Cool Websites Developed:
-- [RustDigest](https://rustdigest.dev) Personal blog on Rust programming tutorials.
-- [RustDigest Playground](https://rustdigest.dev/playground) An online code editor that lets you compile Rust code in any modern browser.
+- [RustDigest](https://rustdigest.dev) A personal blog on Rust programming tutorials.
+- [RustDigest Playground](https://rustdigest.dev/playground) An online code editor that enables you to compile Rust code in any modern browser.
 - [Taskify](https://taskify-site.netlify.app) A minimalistic to-do application using inspiration from the iOS and MacOS task application.
-- [Bootstrap by Example](https://bootstrapbyexample.com) Personal blog on how to learn Bootstrap.
+- [Bootstrap by Example](https://bootstrapbyexample.com) A personal blog on how to learn Bootstrap.
 - [Bootstrap Playground](https://bootstrapbyexample.com/playground) An online code editor that lets you play with Bootstrap code in any modern browser.
 - [Soundcloud Artists Followers Chart](https://chart.orientanalytics.com) A dashboard utility that displays a real-time chart of SoundCloud Artists Followers.
 - [Orient Analytics](https://marketplace.orientanalytics.com) A digital analytics website and marketplace.
