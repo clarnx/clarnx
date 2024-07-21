@@ -18,7 +18,7 @@ Repos:
 
 Cool Websites Developed:
 - [RustDigest](https://rustdigest.dev) A personal blog on Rust programming tutorials.
-- [RustDigest Playground](https://rustdigest.dev/playground) An online code editor that enables you to compile Rust code in any modern browser.
+- [Rust Playground](https://rustdigest.dev/playground) An online code editor that enables you to compile Rust code in any modern browser.
 - [Taskify](https://taskify-site.netlify.app) A minimalistic to-do application using inspiration from the iOS and MacOS task application.
 - [Bootstrap by Example](https://bootstrapbyexample.com) A personal blog on how to learn Bootstrap.
 - [Bootstrap Playground](https://bootstrapbyexample.com/playground) An online code editor that lets you play with Bootstrap code in any modern browser.
