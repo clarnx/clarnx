@@ -6,20 +6,22 @@
 
 A Linux / I.T Admin, designer, a 2D animator, and a full stack developer with JavaScript ✨, Node.js ♾, Next.js ♻️, and Rust ⚡️ skills.
 
-I love to create minimalistic websites / web apps ❤️.
+I love to create minimalistic websites/web apps ❤️.
 
 ---
 
 Repos:
 
-- 💽 [transpilyzer-online-repl](https://github.com/devDigestOfficial/transpilyzer-online-repl) An online REPL based on Babel for transpiling next generation JavaScript in real-time
-- 🔋 [hubtel-sms-nodejs-v1](https://github.com/clarnx/hubtel-sms-nodejs-v1) An open source Node.js SDK that allows you to access the Hubtel Programmable SMS API from your Node.js application.
+- 💽 [transpilyzer-online-repl](https://github.com/devDigestOfficial/transpilyzer-online-repl) An online REPL based on Babel for transpiling next-generation JavaScript in real-time
+- 🔋 [hubtel-sms-nodejs-v1](https://github.com/clarnx/hubtel-sms-nodejs-v1) An open-source Node.js SDK that allows you to access the Hubtel Programmable SMS API from your Node.js application.
 - ⚡[more...](https://github.com/clarnx?tab=repositories)
 
 Cool Websites Developed:
-- [Taskify](https://taskify-site.netlify.app/) A minimalistic todo application using inspiration from the iOS and MacOS task application.
-- [Bootstrap by Example](https://bootstrapbyexample.com/) Personal blog on how to learn Bootstrap.
-- [Bootstrap Playground](https://bootstrapbyexample.com/playground/) An online code editor that lets you play with Bootstrap code in any modern browser.
-- [Soundcloud Artists Followers Chart](https://chart.orientanalytics.com/) A dashboard utility that displays a realtime chart of SoundCloud Artists Followers.
-- [Orient Analytics](https://marketplace.orientanalytics.com/) A digital analytics website and marketplace.
-- [Smart Touch Typing](https://www.smarttouchtyping.com/) A touch typing resource website for beginners.
+- [RustDigest](https://rustdigest.dev) Personal blog on Rust programming tutorials.
+- [RustDigest Playground](https://rustdigest.dev/playground) An online code editor that lets you compile Rust code in any modern browser.
+- [Taskify](https://taskify-site.netlify.app) A minimalistic to-do application using inspiration from the iOS and MacOS task application.
+- [Bootstrap by Example](https://bootstrapbyexample.com) Personal blog on how to learn Bootstrap.
+- [Bootstrap Playground](https://bootstrapbyexample.com/playground) An online code editor that lets you play with Bootstrap code in any modern browser.
+- [Soundcloud Artists Followers Chart](https://chart.orientanalytics.com) A dashboard utility that displays a real-time chart of SoundCloud Artists Followers.
+- [Orient Analytics](https://marketplace.orientanalytics.com) A digital analytics website and marketplace.
+- [Smart Touch Typing](https://www.smarttouchtyping.com) A touch typing resource website for beginners.
